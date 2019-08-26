@@ -1,0 +1,12 @@
+#jump-sku {
+	padding-left:5px;
+	margin-left:20px;
+}
+
+#jump-button {
+	border: 1px solid gray;
+}
+
+#jump-button:hover{
+	color:#ba4000;
+}
